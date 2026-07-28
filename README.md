@@ -24,13 +24,13 @@ Use na Play Console:
 - Política de privacidade: `https://SEU-USUARIO.github.io/imunikids-legal/privacidade.html`
 - Exclusão de conta: `https://SEU-USUARIO.github.io/imunikids-legal/excluir-conta.html`
 
-## Pendência obrigatória antes da produção
+## Exclusão de conta
 
-O aplicativo ainda precisa oferecer um caminho interno destacado para solicitar/executar a exclusão da conta, por exemplo:
+O aplicativo oferece um caminho interno para a exclusão definitiva da conta e dos dados associados:
 
 `Configurações → Minha conta → Excluir conta`
 
-A página Web já permite iniciar a solicitação por e-mail, mas não substitui o caminho dentro do aplicativo exigido para apps com criação de conta.
+A página Web de exclusão também mantém o canal externo por e-mail para quem desinstalou o aplicativo ou perdeu o acesso à conta. Não é necessário reinstalar o ImuniKids para iniciar a solicitação externa.
 
 ## Revisão
 
