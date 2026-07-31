@@ -28,7 +28,9 @@ Use na Play Console:
 
 O aplicativo oferece um caminho interno para a exclusão definitiva da conta e dos dados associados:
 
-`Configurações → Minha conta → Excluir conta`
+`Configurações → Aplicativo → Sobre o aplicativo → Links úteis → Excluir conta`
+
+Na tela de configurações, abra **Sobre o aplicativo**, no card **Aplicativo**. Em seguida, localize o card **Links úteis** e selecione **Excluir conta**.
 
 A página Web de exclusão também mantém o canal externo por e-mail para quem desinstalou o aplicativo ou perdeu o acesso à conta. Não é necessário reinstalar o ImuniKids para iniciar a solicitação externa.
 
